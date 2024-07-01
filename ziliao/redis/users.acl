@@ -1,0 +1,4 @@
+user jack on  ~* &* +@all >123456
+user default on  ~* &* +@all >fr4321
+user tom on   ~* &* +get +set >123456
+user tangtang on   ~* &* +get +set >123456
